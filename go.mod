@@ -1,4 +1,4 @@
-module github.com/golang-module/carbon
+module github.com/rhinonet/carbon
 
 go 1.14
 
