@@ -4,7 +4,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/golang-module/carbon/lang"
+	"github.com/rhinonet/carbon/lang"
 )
 
 var (
